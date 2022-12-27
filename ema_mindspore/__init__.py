@@ -1,0 +1,1 @@
+from ema_mindspore.ema import EMA
